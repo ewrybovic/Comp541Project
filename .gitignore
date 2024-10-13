@@ -162,5 +162,6 @@ cython_debug/
 #.idea/
 
 usa-real-estate-dataset.csv
+*.png
 data/merged_real_estate_data.csvdata/merged_real_estate_data.csv
 data/merged_real_estate_data.csv
